@@ -8,7 +8,7 @@
     "neo":       "https://www.neoapis.xyz",
     "nexray":     "https://api.nexray.eu.cc",
     "omegatech":  "https://omegatech-api.dixonomega.tech",
-    "sanka":      "https://www.sankavolereii.my.id", APIKey: "planaai",
+    "sanka":      "https://www.sankavolereii.my.id", "APIKey": "planaai",
     "siputzx":    "https://api.siputzx.my.id"
     
 }
