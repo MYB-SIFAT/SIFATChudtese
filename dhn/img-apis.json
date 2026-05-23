@@ -1,0 +1,12 @@
+{
+    delirius: { baseURL: "https://api.delirius.store" },
+    faaa: { baseURL: "https://api-faa.my.id" },
+    kuroneko: { baseURL: "https://api.danzy.web.id" },
+    lexcode: { baseURL: "https://api.lexcode.biz.id" },
+    nekolabs: { baseURL: "https://rynekoo-api.hf.space" },
+    neo: { baseURL: "https://www.neoapis.xyz" },
+    nexray: { baseURL: "https://api.nexray.eu.cc" },
+    omegatech: { baseURL: "https://omegatech-api.dixonomega.tech" },
+    sanka: { baseURL: "https://www.sankavolereii.my.id", APIKey: "planaai" },
+    siputzx: { baseURL: "https://api.siputzx.my.id" }
+};
