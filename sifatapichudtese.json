@@ -1,4 +1,6 @@
 {
+  
+  "Quran":    "https://quran-json--cdibot58.replit.app",
   "global":   "https://maybexenos.vercel.app",
   "music":    "https://sifu-music-api--s1fuh4x.replit.app",
   "album":    "https://album-api-hub-production.up.railway.app",
@@ -6,4 +8,5 @@
   "txtfx":    "https://sifu-text-fx-production.up.railway.app",
   "ffinfo":   "",
   "Pintrst":  "",
+  
 }
