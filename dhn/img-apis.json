@@ -1,4 +1,5 @@
 {
+    
     delirius:  "https://api.delirius.store",
     faaa:      "https://api-faa.my.id",
     kuroneko:  "https://api.danzy.web.id",
@@ -8,5 +9,6 @@
     nexray:     "https://api.nexray.eu.cc",
     omegatech:  "https://omegatech-api.dixonomega.tech",
     sanka:      "https://www.sankavolereii.my.id", APIKey: "planaai",
-    siputzx:    "https://api.siputzx.my.id" }
-};
+    siputzx:    "https://api.siputzx.my.id"
+    
+}
