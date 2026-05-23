@@ -1,14 +1,14 @@
 {
     
-    delirius:  "https://api.delirius.store",
-    faaa:      "https://api-faa.my.id",
-    kuroneko:  "https://api.danzy.web.id",
-    lexcode:   "https://api.lexcode.biz.id",
-    nekolabs:  "https://rynekoo-api.hf.space",
-    neo:       "https://www.neoapis.xyz",
-    nexray:     "https://api.nexray.eu.cc",
-    omegatech:  "https://omegatech-api.dixonomega.tech",
-    sanka:      "https://www.sankavolereii.my.id", APIKey: "planaai",
-    siputzx:    "https://api.siputzx.my.id"
+    "delirius":  "https://api.delirius.store",
+    "faaa":      "https://api-faa.my.id",
+    "kuroneko":  "https://api.danzy.web.id",
+    "lexcode":   "https://api.lexcode.biz.id",
+    "nekolabs":  "https://rynekoo-api.hf.space",
+    "neo":       "https://www.neoapis.xyz",
+    "nexray":     "https://api.nexray.eu.cc",
+    "omegatech":  "https://omegatech-api.dixonomega.tech",
+    "sanka":      "https://www.sankavolereii.my.id", APIKey: "planaai",
+    "siputzx":    "https://api.siputzx.my.id"
     
 }
